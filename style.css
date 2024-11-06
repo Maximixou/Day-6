@@ -1,0 +1,25 @@
+body {
+    background: url(snow-black.gif);
+}
+div {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background: white;
+    margin: auto;
+}
+.parent1 {
+    margin-top: 150px;
+    margin-right: 450px;
+}
+.parent2 {
+    width: 150px;
+    height: 150px;
+}
+.parent3 {
+    margin-top: 50px;
+    margin-left: 450px;
+    width: 85px;
+    height: 85px;
+}
+
